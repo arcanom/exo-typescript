@@ -6,7 +6,7 @@
 
   const msg = addInventory(nom, qty);
 
-  console.log('[Solution 1.6]', msg);
+  console.log("Solution de l'exo 1.6 est", msg);
 
   function addInventory(name: string, quantity: number): string {
     return `Added ${quantity} ${name}s to inventory.`;
