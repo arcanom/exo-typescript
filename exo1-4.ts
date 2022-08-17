@@ -1,6 +1,6 @@
 // Exercice 1.4 :
 
-const integer: number = 6;
+  const integer: number = 6;
   const float: number = 6.66;
   const hex: number = 0xf00d;
   const binary: number = 0b1010011010;
