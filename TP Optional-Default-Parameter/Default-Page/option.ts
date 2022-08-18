@@ -13,7 +13,9 @@ let res : any = document.getElementById("res")
 
 
 // Page avec paramètre par défaut (N/A)pour adresse2
-function sendAdress(address : string,  city : string, address2 ="N/A" ){
+function sendAdress(address : string,  city : string, address2 ='N/A' ){
+
+     
     let test = address.value
     let test2 = city.value
     let option = address2.value
